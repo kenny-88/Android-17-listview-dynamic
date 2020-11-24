@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Android-17-listview</string>
+    <string-array name="list">
+        <item>item 1</item>
+        <item>item 2</item>
+        <item>item 3</item>
+        <item>item 4</item>
+    </string-array>
+</resources>
